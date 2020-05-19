@@ -1,0 +1,2 @@
+C:\Users\cvent\source\repos\SyE\Debug\SyE.exe
+C:\Users\cvent\source\repos\SyE\Debug\SyE.pdb
